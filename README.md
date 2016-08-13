@@ -1,2 +1,2 @@
 # Super-Budgeter
-A budgeting spreadsheet
+A budgeting spreadsheet meant for home or business.
